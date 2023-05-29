@@ -251,8 +251,8 @@ box-shadow: 5px 5px 30px 7px #AEE2FF, -5px -5px 30px 7px #AEE2FF;
   .footer{
   padding-left: 0;
 }
-.text{
-  padding-left: 10px;
+.footer .text{
+  padding-left: 30px;
 }
 
 nav > .nav-btn {
